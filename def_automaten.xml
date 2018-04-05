@@ -1,0 +1,19 @@
+<defList>
+    <filename tag="explicit_filename">Def_Automaten_und_Berechenbarkeit<filename>
+    <definition>
+        <begriff> Automatendefinition 1</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Automatendefinition 2</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Automatendefinition 3</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Automatendefinition 4</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+</defList>
