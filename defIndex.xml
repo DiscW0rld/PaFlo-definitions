@@ -1,6 +1,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <index>
+  <filename id="explicit_filename">defIndex.xml</filename>
   <entry> 
     <name> Automaten und Berechenbarkeit </name>
     <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/development/defs_automaten.xml</link>
