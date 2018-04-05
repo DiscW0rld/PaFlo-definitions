@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry> 
+    <name> Automaten und Berechenbarkeit </name>
+    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/master/defs_automaten.xml</link>
+    <author> PaFlo </author>
+  </entry>
+  <entry>
+    <name> Schulpädagogik </name>
+    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/master/defs_schulpaedagogik.xml</link>
+    <author> PaFlo </author>
+  </entry>
+</index>
