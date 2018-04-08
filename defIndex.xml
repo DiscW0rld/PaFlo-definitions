@@ -3,12 +3,12 @@
   <filename id="explicit_filename">defIndex.xml</filename>
   <entry> 
     <name> Automaten und Berechenbarkeit </name>
-    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/development/defs_automaten.xml</link>
+    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/Development/defs_automaten.xml</link>
     <author> PaFlo </author>
   </entry>
   <entry>
     <name> Schulpädagogik </name>
-    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/development/defs_schulpaedagogik.xml</link>
+    <link>https://raw.githubusercontent.com/DiscW0rld/PaFlo-definitions/Development/defs_schulpaedagogik.xml</link>
     <author> PaFlo </author>
   </entry>
 </index>
