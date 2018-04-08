@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defList>
+    <filename id="explicit_filename">Def_Schulpaedagogik.xml</filename>
+    <definition>
+        <begriff> Didaktik </begriff>
+        <erklaerung> Theorie des Unterrichts bzw. des Lehrens und Lernens </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Unterricht </begriff>
+        <erklaerung> die regelmäßige und systematische Vermittlung von Wissen durch einen Lehrer an Schüler </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Lernen </begriff>
+        <erklaerung> sich Wissen und Fähigkeiten aneignen </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Lehren </begriff>
+        <erklaerung> Vermittlung von Fähigkeiten und Kenntnissen an andere Personen </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Kompetenz </begriff>
+        <erklaerung> Ein Sachverstand / eine Fähigkeit </erklaerung>
+    </definition>
+</defList>
