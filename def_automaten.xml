@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <defList>
-    <filename tag="explicit_filename">Def_Automaten_und_Berechenbarkeit</filename>
+    <filename tag="explicit_filename">Def_Automaten_und_Berechenbarkeit.xml</filename>
     <definition>
         <begriff> Automatendefinition 1</begriff>
         <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
