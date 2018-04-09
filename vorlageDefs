@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defList>
+    <filename id="explicit_filename">Def_Dein_expliziter_Dateiname.xml</filename>
+    <definition>
+        <begriff> Vorlagendefinition 1</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Vorlagendefinition 2</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Vorlagendefinition 3</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+    <definition>
+        <begriff> Vorlagendefinition 4</begriff>
+        <erklaerung> Erklärtext zur Automatendefinition 1 </erklaerung>
+    </definition>
+</defList>
